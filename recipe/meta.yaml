@@ -1,6 +1,6 @@
 {% set name = "dask-ndfilters" %}
-{% set version = "0.1.1" %}
-{% set sha256 = "0c62284304494d5f5bd0bee715598abbd1523784c36da628eaf30122d1023a48" %}
+{% set version = "0.1.2" %}
+{% set sha256 = "46805e6e6447f5b86154dcc78188e3ce777b5213160ccbc94a0a08d84088647b" %}
 
 package:
   name: {{ name|lower }}
